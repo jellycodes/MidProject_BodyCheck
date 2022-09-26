@@ -16,12 +16,13 @@
 
 # 🛠 5. 개발 및 실행 환경
 - IDE: Eclipse IDE, Visual Studio 
-- <img src="https://user-images.githubusercontent.com/107213931/192180938-e7abd829-6a48-49da-925d-4ee6372726f1.png" width="100" height="100"/>
-- Java 11 SE <img src="https://user-images.githubusercontent.com/107213931/192180938-e7abd829-6a48-49da-925d-4ee6372726f1.png" />
-- Spring boot ![title](https://user-images.githubusercontent.com/107213931/192180984-e55048bb-9a95-4d69-a77d-5ac6c92628e6.png)
-- DB: H2 Database ![title](https://user-images.githubusercontent.com/107213931/192181031-681b88f4-8526-4b37-b450-e908b0f42b7d.png)
-- tailwindcss ![image](https://user-images.githubusercontent.com/111172834/192182742-f31609a5-658a-4902-a162-a7f171b13919.png)
-- ![image](https://user-images.githubusercontent.com/111172834/192183748-f5522345-4e6a-4c42-a802-f00b4c867015.png)
+- Java 11 SE 
+- Spring boot 
+- DB: H2 Database 
+- tailwindcss 
+
+<img src="https://user-images.githubusercontent.com/107213931/192180887-2edc7011-1df2-4f31-8f79-41a93fd3c9fb.png" width="100" height="100"/>  <img src="https://user-images.githubusercontent.com/107213931/192180938-e7abd829-6a48-49da-925d-4ee6372726f1.png" width="100" height="100"/>  <img src="https://user-images.githubusercontent.com/107213931/192180984-e55048bb-9a95-4d69-a77d-5ac6c92628e6.png" width="100" height="100"/>  <img src="https://user-images.githubusercontent.com/107213931/192181031-681b88f4-8526-4b37-b450-e908b0f42b7d.png" width="100" height="100"/>  <img src="https://user-images.githubusercontent.com/111172834/192182742-f31609a5-658a-4902-a162-a7f171b13919.png" width="100" height="100"/>
+
 
 
 # 📋 6. RestAPI Document
