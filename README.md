@@ -15,11 +15,11 @@
 학생 - 전공 테이블 작성 예정
 
 # 🛠 5. 개발 및 실행 환경
-- IDE: Eclipse IDE, Visual Studio ![image](https://user-images.githubusercontent.com/107213931/192180887-2edc7011-1df2-4f31-8f79-41a93fd3c9fb.png)
+- IDE: Eclipse IDE, Visual Studio 
 - Java 11 SE ![title](https://user-images.githubusercontent.com/107213931/192180938-e7abd829-6a48-49da-925d-4ee6372726f1.png){: width="100" height="100"}
 - Spring boot ![title](https://user-images.githubusercontent.com/107213931/192180984-e55048bb-9a95-4d69-a77d-5ac6c92628e6.png){: width="100" height="100"}
 - DB: H2 Database ![title](https://user-images.githubusercontent.com/107213931/192181031-681b88f4-8526-4b37-b450-e908b0f42b7d.png){: width="100" height="100"}
-
+- tailwindcss ![image](https://user-images.githubusercontent.com/111172834/192182742-f31609a5-658a-4902-a162-a7f171b13919.png)
 
 # 📋 6. RestAPI Document
 Postman
@@ -28,8 +28,8 @@ Postman
 ESLint, Prettier
 
 
+
 <p>
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?&style=flat-square&logo=html5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
@@ -40,7 +40,6 @@ ESLint, Prettier
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/>
