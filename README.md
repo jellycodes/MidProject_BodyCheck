@@ -7,4 +7,3 @@ Readme.md
 헬스 정보 공유 사이트
 
 # 2. 
-lfakdnflaskdfnlk
