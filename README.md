@@ -18,10 +18,10 @@
 - 학생 - 전공 테이블 작성 예정
 
 # 5. 개발 및 실행 환경
-- IDE: Eclipse IDE, Visual Studio
-- Java 11 SE
-- Spring boot
-- DB: H2 Database
+- IDE: Eclipse IDE, Visual Studio ![image](https://user-images.githubusercontent.com/107213931/192180887-2edc7011-1df2-4f31-8f79-41a93fd3c9fb.png)
+- Java 11 SE ![image](https://user-images.githubusercontent.com/107213931/192180938-e7abd829-6a48-49da-925d-4ee6372726f1.png)
+- Spring boot ![image](https://user-images.githubusercontent.com/107213931/192180984-e55048bb-9a95-4d69-a77d-5ac6c92628e6.png)
+- DB: H2 Database ![image](https://user-images.githubusercontent.com/107213931/192181031-681b88f4-8526-4b37-b450-e908b0f42b7d.png)
 
 # 6. RestAPI Document
 - Postman
