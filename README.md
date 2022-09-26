@@ -1,20 +1,18 @@
 # ☂ 1. 프로젝트 소개
-- (뭐하는 서비스인지? 한 줄로 심플하게 핵심만 한 줄짜리 슬로건)
-- 종합 운동 정보 & 상품 판매 대행 사이트
+- 종합 운동 정보 교류 & 상품 소개 사이트
 
 # 🚀 2. 팀원 소개 및 담당 역할 or 기능
-- 이주용님: 게시판, 로그인 기능 구현
-- 도은빈님: FrontPage CSS
+- 이주용님: 게시판 & Login 백엔드 기능 구현
+- 도은빈님: 달력 & 게시판 프론트엔드 구현
 - 변웅섭님: FrontPage, 위키 기능 구현
 
-# 🎨 3. FE 한정
-- (IA(Information Architecture), User journey map, Persona, 톤앤매너, 와이어프레임)
+# 🗂 3. 전체 흐름 & 시퀀스 다이어그램
+![Body-Info (1)](https://user-images.githubusercontent.com/111172834/192197400-a4c091e6-95b6-4a9e-927c-dd7e495e46bb.jpg)
 
-# 🗂 4. DB ERD or 테이블 구조도
-- 캡쳐 이미지
-- 학생 - 전공 테이블 작성 예정
+![Body-Info](https://user-images.githubusercontent.com/111172834/192197348-66a6fedb-cf02-44cf-83e2-4431541ac44c.jpg)
 
-# 🛠 5. 개발 및 실행 환경
+
+# 🛠 4. 개발 및 실행 환경
 - IDE: Eclipse IDE, Visual Studio 
 - Java 11 SE 
 - Spring boot 
@@ -23,8 +21,8 @@
 
 <img src="https://user-images.githubusercontent.com/107213931/192180887-2edc7011-1df2-4f31-8f79-41a93fd3c9fb.png" width="100" height="100"/>  <img src="https://user-images.githubusercontent.com/107213931/192180938-e7abd829-6a48-49da-925d-4ee6372726f1.png" width="100" height="100"/>  <img src="https://user-images.githubusercontent.com/107213931/192180984-e55048bb-9a95-4d69-a77d-5ac6c92628e6.png" width="100" height="100"/>  <img src="https://user-images.githubusercontent.com/107213931/192181031-681b88f4-8526-4b37-b450-e908b0f42b7d.png" width="100" height="100"/>  <img src="https://user-images.githubusercontent.com/111172834/192182742-f31609a5-658a-4902-a162-a7f171b13919.png" width="100" height="100"/>
 
-# 💡 6. 컨벤션 or 진행 간 규칙
-- ESLint, Prettier
+# 💡 5. 컨벤션 or 진행 간 규칙
+- 추후 
 
 
 
