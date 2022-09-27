@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;BoardService.java&apos; to &apos;bodyinfo/src/main/java/dev.board.bodyinfo.service&apos;&#x0D;&#x0A;- Original project: &apos;bodyinfo&apos;&#x0D;&#x0A;- Destination element: &apos;bodyinfo/src/main/java/dev.board.bodyinfo.service&apos;&#x0D;&#x0A;- Original element: &apos;dev.board.bodyinfo.repository.BoardService.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;dev.board.bodyinfo.service" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;dev.board.bodyinfo.repository{BoardService.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1664258965345" units="1" version="1.0"/>
+</session>
