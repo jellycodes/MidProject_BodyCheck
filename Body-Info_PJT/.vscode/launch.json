@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BodyInfoApplication<body_info>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.middle_project.body_info.BodyInfoApplication",
+            "projectName": "body_info",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
