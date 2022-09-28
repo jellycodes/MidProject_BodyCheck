@@ -21,5 +21,5 @@ public class BoardController {
 	 * 	@return List<Board>
 	 * 	@author jellycodes
 	 */
-	public 
+	
 }
