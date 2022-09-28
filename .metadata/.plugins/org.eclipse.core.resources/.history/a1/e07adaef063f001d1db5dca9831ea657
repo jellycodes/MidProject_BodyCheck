@@ -1,0 +1,15 @@
+package dev.board.bodyinfo.service;
+
+import java.util.List;
+
+import dev.board.bodyinfo.entity.Board;
+
+public class BoardServiceImpl implements BoardService {
+
+	@Override
+	public List<Board> list() {
+		
+		return null;
+	}
+
+}
