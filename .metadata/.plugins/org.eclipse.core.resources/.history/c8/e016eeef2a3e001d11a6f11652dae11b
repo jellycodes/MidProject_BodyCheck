@@ -1,5 +1,0 @@
-package dev.board.bodyinfo.repository;
-
-public interface BoardService {
-
-}

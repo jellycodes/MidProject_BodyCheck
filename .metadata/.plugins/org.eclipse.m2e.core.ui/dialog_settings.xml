@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\jylee7942\Desktop\MidProject\MidProject_BodyCheck\bodyinfo"/>
+			<item value="C:\Users\jylee7942\Desktop\MidProject\MidProject_BodyCheck"/>
 			<item value="C:\Users\playdata\Desktop\MidProject01"/>
 		</list>
 		<list key="projectNameTemplate">
