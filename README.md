@@ -2,14 +2,14 @@
 - 게시판을 이용한 운동 정보 교류 & 관련 상품 소개 사이트
 
 # 🚀 2. 팀원 소개 및 담당 역할 or 기능
-- 이주용님: 게시판 백엔드 구현
+- 이주용님: 프론트 백엔드 구현 및 연동  
 - 도은빈님: 게시판 백엔드 구현
 - 이은지님: 전체 프론트엔드 구현
 - 변웅섭님: 오운완 , 위키 기능 구현
 
 # 🗂 3. 전체 흐름 & 시퀀스 다이어그램
-![image](https://user-images.githubusercontent.com/111172834/194476601-6d0802ee-3447-429b-9414-6dffe442f3ad.png)
-
+![image](https://user-images.githubusercontent.com/111172834/194477189-4b777837-4412-4096-87e6-7f91be93d03a.png)
+![image](https://user-images.githubusercontent.com/111172834/194476945-adeeb00f-2efa-4ae7-9273-3b2356baf4f8.png)
 ![Body-Info (1)](https://user-images.githubusercontent.com/111172834/192197400-a4c091e6-95b6-4a9e-927c-dd7e495e46bb.jpg)
 ![Body-Info](https://user-images.githubusercontent.com/111172834/192197348-66a6fedb-cf02-44cf-83e2-4431541ac44c.jpg)
 
