@@ -8,8 +8,9 @@
 - 변웅섭님: 오운완 , 위키 기능 구현
 
 # 🗂 3. 전체 흐름 & 시퀀스 다이어그램
+![image](https://user-images.githubusercontent.com/111172834/194476601-6d0802ee-3447-429b-9414-6dffe442f3ad.png)
+
 ![Body-Info (1)](https://user-images.githubusercontent.com/111172834/192197400-a4c091e6-95b6-4a9e-927c-dd7e495e46bb.jpg)
-![Body-Info (2)](https://user-images.githubusercontent.com/111172834/192197622-3fdfd28f-f183-4bb7-bf55-5cbcb2be40ee.jpg)
 ![Body-Info](https://user-images.githubusercontent.com/111172834/192197348-66a6fedb-cf02-44cf-83e2-4431541ac44c.jpg)
 
 
