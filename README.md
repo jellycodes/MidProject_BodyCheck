@@ -24,7 +24,7 @@
 - DB: My SQL 8.0.0
 - tailwindcss 3.1.8
 
-<img src="https://user-images.githubusercontent.com/107213931/192180887-2edc7011-1df2-4f31-8f79-41a93fd3c9fb.png" width="100" height="100"/>  <img src="https://user-images.githubusercontent.com/107213931/192180938-e7abd829-6a48-49da-925d-4ee6372726f1.png" width="100" height="100"/>  <img src="https://user-images.githubusercontent.com/107213931/192180984-e55048bb-9a95-4d69-a77d-5ac6c92628e6.png" width="100" height="100"/>  <img src="https://user-images.githubusercontent.com/107213931/192181031-681b88f4-8526-4b37-b450-e908b0f42b7d.png" width="100" height="100"/>  <img src="https://user-images.githubusercontent.com/111172834/192182742-f31609a5-658a-4902-a162-a7f171b13919.png" width="100" height="100"/>
+<img src="https://user-images.githubusercontent.com/107213931/192180887-2edc7011-1df2-4f31-8f79-41a93fd3c9fb.png" width="100" height="100"/>  <img src="https://user-images.githubusercontent.com/107213931/192180938-e7abd829-6a48-49da-925d-4ee6372726f1.png" width="100" height="100"/>  <img src="https://user-images.githubusercontent.com/107213931/192180984-e55048bb-9a95-4d69-a77d-5ac6c92628e6.png" width="100" height="100"/>    <img src="https://user-images.githubusercontent.com/111172834/192182742-f31609a5-658a-4902-a162-a7f171b13919.png" width="100" height="100"/>
 
 # 💡 5. 컨벤션 or 진행 간 규칙
 없는게 규칙
